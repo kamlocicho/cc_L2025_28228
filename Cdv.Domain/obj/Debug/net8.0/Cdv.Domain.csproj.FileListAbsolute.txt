@@ -1,0 +1,14 @@
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\bin\Debug\net8.0\Cdv.Domain.deps.json
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\bin\Debug\net8.0\Cdv.Domain.runtimeconfig.json
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\bin\Debug\net8.0\Cdv.Domain.dll
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\bin\Debug\net8.0\Cdv.Domain.pdb
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\Cdv.Domain.csproj.AssemblyReference.cache
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\Cdv.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\Cdv.Domain.AssemblyInfoInputs.cache
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\Cdv.Domain.AssemblyInfo.cs
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\Cdv.Domain.csproj.CoreCompileInputs.cache
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\Cdv.Domain.dll
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\refint\Cdv.Domain.dll
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\Cdv.Domain.pdb
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\Cdv.Domain.genruntimeconfig.cache
+C:\Users\korwat1\RiderProjects\Solution1\Cdv.Domain\obj\Debug\net8.0\ref\Cdv.Domain.dll
